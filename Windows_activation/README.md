@@ -40,17 +40,17 @@ Windows 10 Digital License Activation Script.cmd 檔案。
 
 輸入 2。
 
-<img src="./pics/2021-10-08_231016.png" style="zoom:70%" />
+<img src="./pics/1.png" style="zoom:70%" />
 
 
  
 
 輸入 C。
 
-<img src="./pics/2021-10-08_231016.png" style="zoom:70%" />
+<img src="./pics/2.png" style="zoom:70%" />
 
  
 
 成功啟用。
 
-<img src="./pics/2021-10-08_231016.png" style="zoom:70%" />
+<img src="./pics/3.png" style="zoom:70%" />
